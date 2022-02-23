@@ -1,0 +1,1366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The country-man's treasure shewing the nature, cause, and cure of all diseases incident to cattel : with proper means to prevent their common diseases and distempers : being very useful receipts as they have been practiced by the long experience of five and thirty years, and all approved of : fitted for the use of all farmers and others that deal in cattel / by James Lambert ; with a table of the several diseases therein contained.</title>
+            <author>Lambert, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48581</idno>
+            <idno type="STC">Wing L231</idno>
+            <idno type="STC">ESTC R41333</idno>
+            <idno type="EEBO-CITATION">31355015</idno>
+            <idno type="OCLC">ocm 31355015</idno>
+            <idno type="VID">110309</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110309)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The country-man's treasure shewing the nature, cause, and cure of all diseases incident to cattel : with proper means to prevent their common diseases and distempers : being very useful receipts as they have been practiced by the long experience of five and thirty years, and all approved of : fitted for the use of all farmers and others that deal in cattel / by James Lambert ; with a table of the several diseases therein contained.</title>
+                  <author>Lambert, James.</author>
+               </titleStmt>
+               <extent>[6], 52, [3] p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Twyford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains woodcut frontispiece.</note>
+                  <note>Advertisement: p. [1]-[3] at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Veterinary medicine --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110309:1" rendition="simple:additions"/>
+            <p>THE Country-Man's Treaſure, SHEWING The NATURE, CAUSE, and CURE
+of all Diſeaſes incident to CATTEL; WITH Proper Means to prevent their
+com<g ref="char:EOLhyphen"/>mon <hi>Diſeaſes</hi> and <hi>Diſtempers.</hi> Being very uſeful
+<hi>Receipts</hi> as they have been practiced by the long Experi<g ref="char:EOLhyphen"/>ence of Five
+and Thirty years, and all Approved of. Fitted for the uſe of all
+<hi>Farmers</hi> and others that deal in CATTEL.</p>
+            <p>By JAMES LAMBERT.</p>
+            <p>With a TABLE of the ſeveral Diſeaſes therein contained.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Twyford</hi> in <hi>Vine
+Court Middle Temple.</hi> 1676.</p>
+            <pb facs="tcp:110309:2" rendition="simple:additions"/>
+            <pb facs="tcp:110309:2"/>
+            <pb facs="tcp:110309:3"/>
+            <figure>
+               <figDesc>depictions of cattle, sheep, and
+hog</figDesc>
+            </figure>
+            <pb facs="tcp:110309:3" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110309:4"/>
+            <pb facs="tcp:110309:4"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Do here preſent to thy view the ſeveral
+<hi>Diſeaſes</hi> inci<g ref="char:EOLhyphen"/>dent to <hi>Cattel,</hi> which in Number I have
+computed to be about Sixty and One; I have alſo ſhewed you the Nature of
+every <hi>Diſeaſe,</hi> and how you may make your <hi>Obſervations</hi>
+to know them, and to diſtinguiſh one <hi>Diſeaſe</hi> from another; and
+afterwards the immediate way of the <hi>Cure,</hi> which is done with very
+little Charge, the Medicines being both Plain and Safe, and eaſily obtained:
+as alſo how to prevent any growing Diſtemper, which by the alteration of
+the Place, or other accidental Cauſes do too often hap<g ref="char:EOLhyphen"/>pen. <pb facs="tcp:110309:5"/>Theſe Medicines I have practiced with very good ſucceſs for above
+this Five and Thirty years; and now do here freely communicate them to all my
+C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untry men, not doubting (by
+Gods-Bleſſing on the Means) they may obtain the good end, which is wholly
+deſigned by</p>
+            <closer>
+               <signed>Your Friend JAMES LAMBERT.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:110309:5"/>
+            <head>THE TABLE.</head>
+            <list>
+               <item>A Special Remedy for ſore Eyes in Bull, Ox, Cow, or Calf.
+Page 1</item>
+               <item>Another for the ſore Eyes. 2</item>
+               <item>For the Garget in the Head. 3</item>
+               <item>For the Garget on the Tongue and Throat. 4</item>
+               <item>Another for the ſame. 6</item>
+               <item>For the Garget in the Head and Throat, as ſome do call the
+Murrain, or Long-ſought. ibid</item>
+               <item>A ſpecial Cure for the Murrain in a Beaſt. 8</item>
+               <item>Another excellent Cure for the Murrain in Ox, Cow, or Calf.
+9</item>
+               <item>A good Receipt to take off an Anberry or Wart on any Beaſt.
+10</item>
+               <item>A good Receipt for the Madneſs in the Head of Bull, Ox, or
+Cow. 11</item>
+               <item>For the Garget in the Maw. 12</item>
+               <item>For the Yellows in the whole Body. 13</item>
+               <item>For the Worm in the Tail. 14</item>
+               <item>For the making of Blend-water. 15</item>
+               <item>Another good Receipt for the Blend-water. ibid.</item>
+               <item>A good Receipt for the Water-Murrain. 16</item>
+               <item>A good Receipt for the Riſing in the Body and Swelling
+be<g ref="char:EOLhyphen"/>hind. 17</item>
+               <item>Another good Receipt for the Riſing in the Body. 18</item>
+               <item>For the Towering Long-ſought, that is, Hide-bound.
+19</item>
+               <item>For the ſcowring Long-ſought that ſtinketh 20</item>
+               <item>A good Receipt for a Beaſt that cannot Piſs without pain.
+21</item>
+               <item>For the ſwelling Foule 22</item>
+               <item>For the Foule betwixt the Claws that cometh by Sand, Stub or
+filth of the Earth. 23</item>
+               <item>A good Receipt for the Evil. 24</item>
+               <item>For the Speed in the hinder parts. 25</item>
+               <item>For the Pantas. 26</item>
+               <item>A good Receipt for the biting of a Shrew-Mouſe. 27</item>
+               <item>Another good Receipt for the Shrew-Mouſe. 28</item>
+               <item>For the ſtinging of Adders and Scorpions, and the biting of
+a Hedge-hog or Shrew. 29</item>
+               <item>
+                  <pb facs="tcp:110309:6"/>For the Swelling of an Oxes Cod. 30</item>
+               <item>For an Ox or Cow that hath loſt their Appetite.
+ibid.</item>
+               <item>A Remedy for the loſs of the Cud. 31</item>
+               <item>For the Lungs Growing of any Beaſt. 32</item>
+               <item>For to kill Worms in Ox, Cow, or Calf. 33</item>
+               <item>A good Receipt for a Beaſt that is Dewboulne at the Spring,
+or in Eddige-time. ibid.</item>
+               <item>A good way to breed Milk. 34</item>
+               <item>For the Withering of a Cow. ibid</item>
+               <item>A good Receipt for a Beaſt that maketh Blend-water that
+cometh by a ſtrain, and iſſueth through the Bladder. 35</item>
+               <item>For to get a Beaſt a Stomack when he is weary and tired.
+36</item>
+               <item>For the hardneſs or ſwelling of a Bull or Oxes Piſle
+that is bruiſed by Riding. 37</item>
+               <item>For Forbaiting or a ſwoln Foot of any Beaſt. ibid.</item>
+               <item>For the ſtenching of Blood of any Beaſt cut or hurt, and
+how to make a Salve to heal it. 38</item>
+               <item>For to make a Cow to take the Bull by Milk. 39</item>
+               <item>For to keep an Ox ſound. 40</item>
+               <item>For the Feaver in a Beaſt. ibid.</item>
+               <item>For the Scab on a Beaſt. 41</item>
+               <item>A good Receipt to purge Beaſts. 42</item>
+               <item>For a dry Hoarſneſs or Caugh in a Beaſt. 43</item>
+               <item>Another good Receipt for purging of Cattel. 44</item>
+               <item>Another good Receipt for the Feaver in Beaſts both in
+Win<g ref="char:EOLhyphen"/>ter and Summer. ibid.</item>
+               <item>For an inward ſickneſs in Cattel. 45</item>
+               <item>An excellent Cure for a Burn in a Bulls Yard, or in a Cows
+Matrix. 46</item>
+               <item>For a ſucking Calf that ſcowreth. ibid,</item>
+               <item>For a Bull that ſhedeth his Seed. 47.</item>
+               <item>For the Diſeaſe in Beaſts called the Sturdy, or turning
+Evil. ib.</item>
+               <item>For a Caugh or ſhortneſs of Breath in Cattel. 49</item>
+               <item>For to kill Lice in any Beaſt. ibid.</item>
+               <item>For the Milting of a Beaſt. 50</item>
+               <item>For the Rottenneſs in a Beaſt. ibid.</item>
+               <item>For the Cluſh and ſwoln Neck. 51</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="1" facs="tcp:110309:6"/>THE COUNTRY-MANS TREASURE FOR The CURE of
+<hi>CATTEL.</hi>
+         </head>
+         <div n="1" type="recipe">
+            <head>I. A ſpecial Remedy for Sore Eyes in <hi>Bull, Ox, Cow,</hi> or
+<hi>Calf.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Ake ſix Egg-ſhells and put the Meat clean forth, and lay the
+ſhells betwixt two Tile Stones, and lay the Stones and the Shells in the hot
+glowing Fire, and burn them well, and cover the edge of the Tiles with Clay for
+to keep the Aſhes from the Shells, and when they are burnt, pound them to
+Powder, and ſearſe them finely, <pb n="2" facs="tcp:110309:7"/>and with a Quill blow the
+Powder in<g ref="char:EOLhyphen"/>to the Beaſts Eye, and it will mend preſent<g ref="char:EOLhyphen"/>ly, and blow it in
+three times a day: Alſo take white Sugarcandy, and pound it ſmal, and blend
+it with the aforeſaid Powder of the Shells and May-butter, or for want of
+that, take other freſh Butter with<g ref="char:EOLhyphen"/>out Salt, and work it into a Salve, and
+an<g ref="char:EOLhyphen"/>noint the Eyes Morning, Noon and Night, and it will help them.</p>
+         </div>
+         <div n="2" type="recipe">
+            <head>II. Another for the Sore Eyes.</head>
+            <p>TAke Mutton-bones and burn them well, and pound them to Powder, and
+ſearce them very well, and take burnt Allom and Tutte, and white Sugarcandy,
+and the juice of Ivie, and it will help them that hath a Fleam that cometh by a
+chaff or ſtroak. Alſo take the Marrow of a Gooſe-wing, and it will help
+them: Alſo take white ſalt and burn it in a Dock or wet Cloth, and take the
+middle Core of it and mix it with the Juice of Saladine, and it will help
+them.</p>
+            <p>Alſo there is a Diſeaſe on the Eyes, which is called the
+<hi>Inflammation of the Eyes,</hi> which cometh by blood, and breed<g ref="char:EOLhyphen"/>eth Choller
+and Blindneſs; ſometimes the <pb n="3" facs="tcp:110309:7"/>Beaſt ſeeth a little,
+and ſometimes not at all.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt firſt Cord them in the Neck, and blood them in the
+Temples under the Eyes, and let them bleed very well, and put in ſome burnt
+Allom and live Honey mix't together every day, and they will mend for certain.
+<hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="3" type="recipe">
+            <head>III. For the Garget in the Head.</head>
+            <p>FOr the Garget in the Head, you muſt find it out by the ſwelling
+in their Eyes and Lips; their Eyes will be ſwelled up, and the Face and
+Cheeks will be ſwel<g ref="char:EOLhyphen"/>led; and you muſt look into their Mouths for bliſters
+on their Tongues, and if there be any, you muſt break them, and if the Tongue
+be ſwelled you muſt pull it forth and look under it, and if there be no
+bli<g ref="char:EOLhyphen"/>ſters, then you muſt take your Knife and ſlit it underneath the
+Tongue an Inch long for to let forth the Poyſon, and waſh it with Vinegar
+for the preſent, and within an Hour, then give them three penniworth of the
+Powder of Fenigrick, Turmerick, <pb n="4" facs="tcp:110309:8"/>long Pepper, Liquoris-powder
+and Anni<g ref="char:EOLhyphen"/>ſeeds in a quart of ſtrong Ale or Beer Milk-warm. And for to
+prevent this, blood them well at the Spring and at the Fall, and when you Blood
+them, give to every Beaſt ſome Rhue in a pint of Ale or Beer, if they be
+never ſo well Milk-warm, and they will do well. <hi>Approved of my
+ſelf.</hi>
+            </p>
+         </div>
+         <div n="4" type="recipe">
+            <head>IV. For the Garget on the Tongue and Throat.</head>
+            <p>THis Diſeaſe ſomtimes cometh of Blood, and ſometimes of
+eating of poyſon Graſs, as Dogs-bane, Gooſe-foot, Helmet flowers, all
+theſe are poyſon either to Beaſt or Swine.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt firſt blood them in the Neck, and if they be ſwelled
+under the Jawes a<g ref="char:EOLhyphen"/>gainſt the Throat-Bowl, then you muſt pull forth his
+Tongue, and cut a Vein that lieth under the Tongue, and cut the Skin two inches
+long under the Tongue, length-way for to let forth the Blood and Water, and
+waſh the Tongue with Vinegar, Salt and burnt Allom: and for the out ſide 
+<pb n="5" facs="tcp:110309:8"/>that is ſwelled you muſt ſlit the Hide juſt againſt
+the ſwell'd place four Fingers broad every way, and then put in a good
+hand<g ref="char:EOLhyphen"/>full of Speargraſs, Salt and Butter, and ſtitch ſome of the hole up
+again, then take a lump of the bleweſt Clay, as much as a Muſtard-ball, and
+boyle it with old Urine, and the middle Green Bark of young Elder, and a good
+handfull of Salt, and let them boyle a quarter of an Hour or more, and put in a
+little reaſed Bacon, and boyl them all together until they be thick like Pap,
+and then bath the Beaſts Face from the Ears downwards, and ſtroak it
+down<g ref="char:EOLhyphen"/>wards towards the Slit as hot as you can en<g ref="char:EOLhyphen"/>dure, the hotter the better,
+and bath the Beaſt ſo three times a Day; and when the ſwelling is abated,
+them take Tar, freſh But<g ref="char:EOLhyphen"/>ter and Bees-wax, and annoint the ſore place, and
+it will be well preſently by Gods help. <hi>Approved.</hi>
+            </p>
+            <p>And to prevent this Diſeaſe, you muſt do by them as I ſaid
+in the former Chap<g ref="char:EOLhyphen"/>ter: Blood them and give them ſome Rhue and ſtrong Ale
+or Beer compounded to<g ref="char:EOLhyphen"/>gether, and give it them Milk-warme.</p>
+         </div>
+         <div n="5" type="recipe">
+            <pb n="6" facs="tcp:110309:9"/>
+            <head>V. Another for the ſame.</head>
+            <p>TAke the bleweſt Clay that you can get, and take Hogs Greaſe and
+a little Grunſel, and boyl them in new milk until the Herbs be well boyled,
+and put in a handful of Salt, and bath the Beaſt as hot as you be able for to
+put in your Hand, but firſt let blood in the Neck, and give them three
+penniworth of Fenigrick, Tur<g ref="char:EOLhyphen"/>merick, Long-Pepper, Anniſeeds, Liquoris, all in
+equal Portions, but three Pence in all; and give it them in a quart of ſtrong
+Ale or Beer Milk-warm, and they will mend preſently by Gods help. Approved of
+my ſelfe. And for the preventing of it you muſt Blood them in the Spring
+and Fall, and it will prevent them, giving them ſome Rhue in ſtrong Ale
+when you blood them.</p>
+         </div>
+         <div n="6" type="recipe">
+            <head>VI. For the Garget in the Head and Throat, as ſome do call the
+Murrain Long-ſought.</head>
+            <p>THis Garget is Couſen German to the Murrain, for they will ſwell
+and be puck under their Jaws like a rotten Sheep, their Cheeks will be
+ſwelled up to their Eyes, they will not foam at the Mouth, but 
+<pb n="7" facs="tcp:110309:9"/>they run water very much, and ſometimes their Tongue will
+be ſwelled at the Root, and yet there will be no bliſters, but only the
+Venom that cometh of an ill diſtemper of Stomack, and ſo fumeth into the
+Head, and if it be not ſtaid, it will return to the Heart, and all over the
+Body. The right name of this Diſeaſe is called the Mountain Evil among
+Beaſts.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Firſt let them Blood in the Neck Vein both ſick and ſound, and
+give to every Beaſt to drink both ſick and ſound a pint of old Urine, and
+a good quantity of Hens-dung laid in ſteep Eight or Ten Hours, and grind for
+every Beaſt a handful of Rhue, and put to the Hens-dung &amp; Urine when it
+is ſtrained, and give it to the Beaſts both ſick and ſound, but more to
+the ſick, and leſs to the ſound, and it will cure the ſick and prevent
+the ſound. <hi>Approved.</hi>
+            </p>
+            <p>And for to keep them ſound, if the year time be dangerous, you
+muſt take Time &amp; lay it in ſteep in White-wine Vinegar, and the
+Beaſts own Water, and a handful of Salt, and blend with the Vinegar, and rub
+their Mouth and. Tongue very well, <pb n="8" facs="tcp:110309:10"/>and put the reſt down
+the Beaſts Throat, and it will keep their Stomach, and pre<g ref="char:EOLhyphen"/>ſerve their
+Health, but Blood both at the Spring and Fall of the Leaf, and give them Rhue
+as aforeſaid.</p>
+         </div>
+         <div n="7" type="recipe">
+            <head>VII. A ſpecial Cure for the Murrain in a Beaſt.</head>
+            <p>THis Diſeaſe cometh many ſeverall ways; firſt it cometh of
+rankneſs of Blood or Feeding, or from the corruption of the Air, or the
+infection of other Cattel; you may find this Diſeaſe by their Carriage,
+That is, they will foam at the Mouth, and blow very thick and ſhort, and
+their Heart and Lights will beat very ſore, and ſome<g ref="char:EOLhyphen"/>times their Face and
+Chaps will ſwell, and their Eyes will run with water.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Firſt let all your Beaſts Blood, both Sick and Sound, and give
+to the ſick ſome Rhue, Fetherfew, Sage, Hyſſop, Time, Marjerom,
+Marigolds, Fennel, Tanſey, Lavender, and Spike, of every one a ſmall
+handful, and boyle all the Herbs in Spring Water, and boyle them from a Gallon
+to a quart, <pb n="9" facs="tcp:110309:10"/>and then ſtrain the Herbs forth, and put to
+for every Beaſt a pint of ſtrong Ale to the Juice, and put to the Juice and
+Ale ſome long Pepper and green Anniſeeds, Peas and Bay-ſalt, Treacle, and
+Liquoris-powder and Butter; pound all theſe Spices and put them to the Juice
+of Herbs, and give to the ſick a full pint, and to the ſound halfe a pint,
+and they will mend for cer<g ref="char:EOLhyphen"/>tain. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="8" type="recipe">
+            <head>VIII. Another excellent Cure for the Mur<g ref="char:EOLhyphen"/>raine, in Ox, Cow, or
+Calf.</head>
+            <p>FIrſt, you muſt take for every Beaſt a quart of old Waſh,
+and a good quan<g ref="char:EOLhyphen"/>tity of Hens-dung, and lay the Hens-dung in ſteep Eight or
+Ten Hours, and then ſtrain the Dung forth, and break to every Beaſt Two
+rotten Eggs into the forena<g ref="char:EOLhyphen"/>med Juice, and give to every one two penniworth of
+Spikenard, and blend all theſe together and give it the Beaſt; but firſt
+let Blood, both ſick and ſound, and ſe<g ref="char:EOLhyphen"/>perate the ſick from the
+ſound, Blood and Drench both Horſes and Swine, for they are both apt to
+take the Diſeaſe. Bury the Dead Carrion deep in the Ground, that the Dogs
+cannot pull it forth for to <pb n="10" facs="tcp:110309:11"/>feed on it, for they are
+thoſe that carry the Deſeaſe from one place to another, and be carefull
+where you lay the Murrain Hide of an Horſe, or how a man doth take off the
+Hide while the Beaſt is hot, for it is infe<g ref="char:EOLhyphen"/>ctious, the ſafeſt way is to
+bury the Beaſt, the Hide and all, for that is the beſt way, and by Gods
+help they will be well again preſently.</p>
+         </div>
+         <div n="9" type="recipe">
+            <head>IX. A good Receipt for to take off an Anberry or Wart on any
+Beaſt.</head>
+            <p>THis Anberry cometh of Blood, and is a ſpongie kind of Fleſh,
+full of Blood and Water, and groweth moſt com<g ref="char:EOLhyphen"/>monly on young Beaſts betwixt
+one year old and four.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>If it be of any bulk, ſo that you can tie any thing about it, take
+ten Horſe-hairs and tie them about the Wart as hard as you can, and once in
+eight days you will ſee it fall away, and then you may heal it up with
+unſlack't Lime and Honey, and if it be flat, then you muſt take it off with
+a hot Iron, and heal it up as is ſaid before; <pb n="11" facs="tcp:110309:11"/>and if it
+be in ſuch a place, as among Sinews and Veins, then you muſt eat it away
+with Roſulger or Mercury, and then ſtop the hole with Flax and the white of
+Eggs for two days, and then heal it up with the Pow<g ref="char:EOLhyphen"/>der of unſlack't Lime and
+Honey, and it will do well. <hi>Approved of my ſelf.</hi>
+            </p>
+         </div>
+         <div n="10" type="recipe">
+            <head>X. A good Receipt for the Madneſs in the Head of Bull, Ox, or
+Cow.</head>
+            <p>FOr the madneſs in the Head, it proced<g ref="char:EOLhyphen"/>eth from Blood.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Firſt cord them in the Neck, and Blood them in the Temples under
+the Eyes, and in the Ears, and let them bleed very well, and give them
+Fenigrick, Turmerick, Long Pep<g ref="char:EOLhyphen"/>per, and green Anniſeeds, all alike in
+Portions, and but three Pence in the whole, and the Juice of Rhue, or elſe
+very ſmall Graines, and put all together, and give it them in a quart of
+ſtrong Ale or Beer Milk-warm, and give the one half of the thinneſt in at
+their Noſtrils, and the reſt at their Mouth; this Diſeaſe is eaſily
+found, for they will reel as they <pb n="12" facs="tcp:110309:12"/>go, and ſet their Head
+into the Heck, or againſt a Wall or a Gate, and two men can hardly ſtir
+them. And thus much for this Diſeaſe, for I have approved it.</p>
+         </div>
+         <div n="11" type="recipe">
+            <head>XI. For the Garget in the Maw.</head>
+            <p>FOr the Garget in the Maw, you may perceive it by their drooping and
+hea<g ref="char:EOLhyphen"/>vineſs in their Head, and hanging down their Head and Ears, their Heart
+will beat very ſore, and many times they will be very Coſtive in their
+Body, and will not eat any thing, but ſit continually.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Let them Blood in the Neck-Veine, and let them bleed very well, and
+then draw your Cord, and take Rhue, Plan<g ref="char:EOLhyphen"/>tane, Southernwood, Wormwood,
+Shep<g ref="char:EOLhyphen"/>herds-purſe, Smalledge, Calewort, if you can conveniently get them, or
+the moſt part of them, every one half a handful, bruiſe them very ſmall,
+and take a handful of Hens-dung, and lay it in ſteep in a Pint of old Waſh
+eight Hours, and then ſtrain forth the Hens-dung, and put the Herbs and the
+Waſh together, and put a full quart of <pb n="13" facs="tcp:110309:12"/>ſtrong Ale to
+the Herbs and Waſh, and ſet them on the Fire, and boyl the one half away,
+and then ſtrain them over again and put in an ounce of Treacle, a ſpoonful
+of the Juice of Garlick, and ſome Anniſeeds, and ſome Liquoris-powder,
+blend all to<g ref="char:EOLhyphen"/>gether and give to the Beaſt Milk-warm. This is ſpecial good
+for the Murrain, or for any Garget or Long-ſought whatſoever, it will cure
+them by Gods help. <hi>Approved</hi>
+            </p>
+         </div>
+         <div n="12" type="recipe">
+            <head>XII. For the Yellows in the whole Body.</head>
+            <p>THis Diſeaſe is a forerunner of all Diſ<g ref="char:EOLhyphen"/>eaſes, and is the
+ſooneſt found out, for they will be Yellow in their Ears, Eyes, and in the
+Taile end, and ſometimes all over the Body.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt blood them in the Ears and in the Tail very well, and put
+ſome Salt in their Ears, and rub them betwixt your Hands when they are
+blooded for to make them for to bleed, and then give them two handfuls of Salt
+down their Throat dry over Night, and in the Morning give them Fenegrick,
+Turmerick, long Pepper, and <pb n="14" facs="tcp:110309:13"/>Anniſeeds and Liquoris, but
+two pence in all, the whole made in Powder and given them in a quart of Ale
+Milk-warm, is ve<g ref="char:EOLhyphen"/>ry good for the overflowing of the Gall.
+<hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="13" type="recipe">
+            <head>XIII. For the Worm in the Tail.</head>
+            <p>FOr the worm, you may preſently per<g ref="char:EOLhyphen"/>ceive it by the Tail, for
+ſometimes the Hair will go off where the Worm lieth, and moſt commonly the
+Joynts ſome of them is eaten aſunder, which you may feel knock one
+beſides the other. Many one doth conceive that when a Beaſts Taile is
+ſoft below towards the end, they have the Worm, they are meerly miſtaken,
+for e<g ref="char:EOLhyphen"/>very Beaſt hath ſo.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt be ſure that you ſlit the Skin of the under ſide
+above the decayed Joynt, juſt againſt the Vein, and prick the Vein and let
+it Bleed very well, then take Garlick, Butter, and Salt, and bind it to and it
+will mend, and ſlit their Gums againſt every Tooth, and rub them with Salt
+and they will grow faſt.</p>
+         </div>
+         <div n="14" type="recipe">
+            <pb n="15" facs="tcp:110309:13"/>
+            <head>XIV. For the making of Blend-Water.</head>
+            <p>THis Diſeaſe is, as ſome do call it, the <hi>Morehough;</hi>
+it is a Diſeaſe that cometh ſeveral ways: Firſt it cometh of Blood, and
+ſecondly it cometh from the Yellows, which is a Ring-leader of all
+Diſeaſes; and third<g ref="char:EOLhyphen"/>ly it cometh by change of Ground; the Ground being hard
+it breedeth this Diſeaſe, which if they have not help in Six days, they
+will be paſt help.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt take a penniworth of Bole-armonick, and as much
+Charcoal-flower as will fill an Egg-ſhell, and a good quan<g ref="char:EOLhyphen"/>tity of the inner
+Bark of an Oak, dried and pounded together to Powder, and put them into a quart
+of new Milk, and a pint of Erning, and give it the Beaſt at twice, and it
+will help them for certain. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="15" type="recipe">
+            <head>XV. Another good Receipt for the Blend-Water.</head>
+            <p>THis Receipt never failed: Take a quart of new churned Milk, and
+take a <pb n="16" facs="tcp:110309:14"/>good piece of Lean-Salt-Hung-Beef and lay it upon
+the Coals, and burn it as black as a Coal, and when it is cold pound it to
+Powder, alſo take a penniworrh of Bole-armonick and pound it, and a handful
+of Shepherds-purſe, and put all together and give it to the Beaſt, for it
+never failed me.</p>
+         </div>
+         <div n="16" type="recipe">
+            <head>XVI. A good Receipt for the Water Murrain.</head>
+            <p>THis Diſeaſe cometh of Rankneſs of Blood, and chiefly it
+taketh thoſe that are young, betwixt one year old and three; this Diſeaſe
+is eaſie to find out, for they do ſwell on the Back and both ſides the
+Chine, and if they have not preſent help they will die; the Hide will be
+puffed up to the Shoulder-blade on both ſides.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt firſt let them Blood in the Neck, and give them ſome
+Fenegrick, Tur<g ref="char:EOLhyphen"/>merick, long Pepper, Spikenard, all made into Powder, and give
+it them in Ale or Beer Milk-warm; and for the ſwelling on the Back, you
+muſt take three handfuls of Salt, and a pint of Spring water, and a 
+<pb n="17" facs="tcp:110309:14"/>pint of Whitewine Vinegar, and take a
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle Allom and pound it, and put
+it all to<g ref="char:EOLhyphen"/>gether and beat it with a Slice until it be white like Milk, and then
+bathe the ſwelled places very well &amp; it will dry up the rhume and they
+will be well preſently by Gods help. <hi>Approved.</hi> And for the
+preventing of this Diſeaſe, Blooding is the beſt in time: Alſo if they
+be ſwelled very much on the Back, rowel them on both ſides behind the
+Shoulder-blade againſt the Heart, and put
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſome Hair to keep the holes
+open, and they will amend preſently. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="17" type="recipe">
+            <head>XVII. A good Receipt for the riſing in the Body and ſwelling
+behind.</head>
+            <p>FOr the Riſing in the Body and ſwelling behind, you muſt look
+in their Mouths and behind for Bliſters, if they have any, you muſt break
+them firſt, and then let them Blood under the Tail, and then let them be
+Raked with a little hand in their Bodies behind for to break the Bliſters in
+the Body, and give them a quart of churn-Milk, and ſome Soot of the Chimney,
+Bole-armonick, a red Onion, an Egg the ſhell and all put together and give it
+them and they will mend preſently without fail; but walk them.</p>
+         </div>
+         <div n="18" type="recipe">
+            <pb n="18" facs="tcp:110309:15"/>
+            <head>XVIII. Another good Receipt for the Riſing in the Body.</head>
+            <p>IF the Beaſt be ſwelled in the Belly that you think they are
+almoſt paſt help, look on the near Side and you ſhall ſee the Belly
+ſwell'd above the Ridge of the Back, and then with your Thumb and your Finger
+you muſt feel the Rib on the one ſide, and the Hip on the other ſide, and
+the Loyn-bone above, then take a Pen-knife and a handfull from the Loyn, and as
+much from the Rib, thruſt in your Knife four Fingers Deep into the
+Windy-belly, and you will let forth that filthy wind which would have killed
+them, and they will recover preſently; then within an Hour give them a Drink
+of Fenegrick, Turmerick, long Pepper and Grain, Anniſeeds, Liquo<g ref="char:EOLhyphen"/>ris-powder,
+and a little handful of Rhue bruiſed, and put all together and give it them
+in ſtrong Ale or Beer Milk-warm, and they will mend preſently, and with<g ref="char:EOLhyphen"/>in
+fourteen days let them blood in the Neck-vein, and give them a little Rhue and
+a pint of Ale. This I have tryed many times my felf for certain.</p>
+         </div>
+         <div n="19" type="recipe">
+            <pb n="19" facs="tcp:110309:15"/>
+            <head>XIX. For the Towering Long-Sought that is Hide-bound.</head>
+            <p>THis diſeaſe commonly cometh to thoſe that are in Poverty and
+low of Fleſh, the Signs are, they will look frozenly on their Sides, their
+Hide will grow faſt to their Back, and their Eyes will ſink in their Head,
+they will whet their Teeth, and will not chew their Cud, and they will go by
+them<g ref="char:EOLhyphen"/>ſelves and careth not for their Fellows.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt firſt Blood them in the Neck-vein, and take a handful
+of Rhue, Hyſſop, Sage, Fetherfew, Southernwood, Roſema<g ref="char:EOLhyphen"/>ry, every one of
+theſe Herbs a handful, chop and grind theſe together, and take a quart of
+ſtrong Ale or Beer and put to the Herbs and ſtir them together, and then
+ſtrain the Herbs as well as poſſibly you can from the Ale, and then take
+long Pep<g ref="char:EOLhyphen"/>per, Fenegrick, Turmerick, Anniſeeds, and Liquoris-powder, make all
+theſe into Pow<g ref="char:EOLhyphen"/>der &amp; take two penniworth of Salade Oyl, mix all theſe
+with the Juice of the Herbs and Ale, and make them Milk-warm, and 
+<pb n="20" facs="tcp:110309:16"/>give it to the Beaſt, and if they be weak and far
+ſpent, then you muſt cut them in the Dew-lap, and put in ſome Bears-foot
+or Speargraſs, with Salt and Butter, and they will mend preſently.
+<hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="20" type="recipe">
+            <head>XX. For the ſcowring Long-ſought that ſtinketh.</head>
+            <p>THis Diſeaſe ſometimes cometh of Blood and ſometimes by
+Diſtemper of Body, either by over-heating or by unwholeſome Fodder, which
+will breed laxativeneſs. The Signes are apparent for to be ſeen in their
+ſcowring and ſtink<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Firſt let them blood in the neck Vein, and then take Fenegrick,
+Turmerick, Long-pepper and Grain, Anniſeeds, Liquoris-powder, and halfe a
+pound of Allom, a good quantity of Charcoal, make all theſe into powder, then
+take Rhue, Sage, wild Mint, Parſley, Southernwood, Wormwood, Roſemary,
+Hyſſop, chop and grind of every one of theſe half a handful as ſmall as
+you can and put a Gill of Whitewine Vinegar <pb n="21" facs="tcp:110309:16"/>to the Herbs,
+and roll all together, and then ſtrain the Herbs forth, and put to them a
+little Ale and roll them again, and then ſtrain that forth which is left, and
+put all the juice together, and blend the juice with the fore mentioned Powder,
+and put to a quart of ſtrong Ale or Beer and give it to the Beaſt
+Milk-warm, and they will mend in one night. <hi>Approved.</hi> Alſo you may
+then take a quart of Tanners Ooze, Charcoal-flower and Chalk, Al<g ref="char:EOLhyphen"/>lom and burnt
+Clay, or very well burnt To<g ref="char:EOLhyphen"/>bacco Pipes pounded to Powder and finely ſearced,
+blend all theſe with the ſtrongeſt Ooze you can get, and give it to the
+Beaſts Milk-warm, and they will mend in twelve hours I am ſure.
+<hi>Approved</hi>
+            </p>
+         </div>
+         <div n="21" type="recipe">
+            <head>XXI. A good Receipt for a Beaſt that cannot Piſs without
+pain.</head>
+            <p>THis Diſeaſe ſometimes cometh of over much heat, and
+ſometimes of drink<g ref="char:EOLhyphen"/>ing Sand-water, which doth oft-times ga<g ref="char:EOLhyphen"/>ther together and
+hinder the paſſage of the Bladder, and ſometimes by bruiſed Blood that
+may ſtop the neck of the Blad<g ref="char:EOLhyphen"/>der, and ſo hinder the paſſage.</p>
+            <p>
+               <pb n="22" facs="tcp:110309:17"/>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take Anniſeed, Cumminſeed, Parſley ſeed,
+Watercreſs-ſeed, or the Herb it ſelf, and Muſtardſeed; bruiſe all
+theſe and lay them in ſteep in Whitewine Vinegar ten hours; then put a pint
+of Whitewine to the Powders when they are ſteep't, and give it to the Beaſt
+Milk-warm; alſo take Bayberries, Butchers-broom, Setwel, ſtone-Parſley,
+or other Parſley, Sow<g ref="char:EOLhyphen"/>thiſtle, Lettice, Peneroyal, Red Nettles, bruiſe
+all theſe with a little White-wine Vinegar, and ſtrain them, and put to a
+pint of Whitewine, alſo put in ſome Anniſeeds, and ſome
+Carraway-ſeeds bruiſed, put all together and give it to the Beaſt warm.
+<hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="22" type="recipe">
+            <head>XXII. For the ſwelling Foule.</head>
+            <p>THis Foule cometh of Blood and wa<g ref="char:EOLhyphen"/>teriſh Rhume that falleth into
+the Legs, and cauſeth a ſwelling ſometimes in all four Legs.</p>
+            <p>
+               <pb n="23" facs="tcp:110309:17"/>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt caſt the Beaſts and tie their feet together, and take
+a ſharp knife and ſlit the Skin an inch above the Heel under the
+Fetlock-joint, ſtreight up and down for fear of cutting the Sinews, then you
+muſt take Nettles, and Garlick, and Salt, and bruiſe them together and bind
+them on, and remove the Plaiſter within a Night and a day, and they will be
+well preſently. <hi>Ap<g ref="char:EOLhyphen"/>proved of my ſelf.</hi>
+            </p>
+         </div>
+         <div n="23" type="recipe">
+            <head>XXIII. For the Foul betwixt the Claws that cometh by Sand, Stub
+or filth of the Earth.</head>
+            <p>FIrſt you muſt caſt the Beaſts and tie their Feet, and with
+a ſharp knife pare off all that is dead, and rub it very well for to make it
+bleed, and then take dry Verdigreaſe and bruiſe it ſmall, and dry off the
+Blood and lay it on again, and then take Hogs-greaſe, and dip it in the
+Ver<g ref="char:EOLhyphen"/>digreaſe, &amp; bind it on with a linnen cloth, and keep it dry one night
+and it will be well. And if they chance to have a Wart grow betwixt their Claws
+or in the Heel <pb n="24" facs="tcp:110309:18"/>you muſt pare it with a knife and let it
+bleed very well, and then take a hot Iron and ſear it; alſo then take Tar,
+yellow Wax and Butter melted together on the Fire, lay it on with a tent of
+Flax, and bind it on with a cloth and it will be well preſently.
+<hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="24" type="recipe">
+            <head>XXIV. A good Receipt for the Evil.</head>
+            <p>THis Evil is eaſily found out by reaſon of its taking of their
+Limbs from them; ſometimes it taketh them in the Neck, and ſometimes in
+their Legs, and ſometimes in both; and if it do take them in their Limbs it
+is very hard to re<g ref="char:EOLhyphen"/>cover them.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take Roſemary, Sage, Unſet Hyſſop, Woodbine-leaves, every
+one of theſe a good handful, and two handfuls of Bur<g ref="char:EOLhyphen"/>dock leaves, and boyl
+all theſe in a Gal<g ref="char:EOLhyphen"/>lon of ſpring Water till they all come to a quart, and
+then ſtrain forth the Herbs, and melt in half a pound of Roach-Al<g ref="char:EOLhyphen"/>lom and put
+it into an earthen Pot and keep it cloſe from the Wind and give it the 
+<pb n="25" facs="tcp:110309:18"/>Beaſts in at their Noſtrils by ſix ſpoonfuls at a
+time, and no more, each Noſtril three ſpoonfuls, and give it them three
+times a day and no more, and give it them as long as the Liquor laſteth and
+it will help them. <hi>Approved.</hi> But firſt let them Blood in the Tail,
+and let them bleed very well, there is no queſtion of their mending.</p>
+         </div>
+         <div n="25" type="recipe">
+            <head>XXV. For the Speed in the hinder parts.</head>
+            <p>THis Diſeaſe may well be called the Speed, becauſe it either
+mendeth or endeth in three days time; it cometh of the rankneſs of blood, and
+is catching a<g ref="char:EOLhyphen"/>mong young Cattel betwixt one year old and three, and none
+elſe; it alſo cometh for want of blooding.<note place="margin">It taketh them
+in the hinder parts.</note>
+            </p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Give them Salt and Whitewine blended together, and thoſe that are
+well, blood them in the neck Vein, and thoſe that are fick, blood them in the
+Taile, and let them bleed very well, &amp; then caſt them and tie their Feet,
+and take a ſharp knife and ſlit a hole two Inches long in the inſide of 
+<pb n="26" facs="tcp:110309:19"/>the hinder Legs above the hollow of the Gambrel ſtreight
+up and down for fear of cutting any Vein or Sinew, and make ſome room with
+your Finger for to put in ſome Speargraſs, Salt and Butter, and give them a
+quart of Ale and ſome Rhue, Sage, Fetherfew, and Spurge ground ſmall and
+put to the Ale, and give to the Beaſts warm; but you muſt not drive them
+above twelve Hours, if you do they will be paſt help; if they be taken while
+they can ſtand they are curable, by Gods help. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="26" type="recipe">
+            <head>XXVI. For the Pantas.</head>
+            <p>THis Diſeaſe is called the <hi>Pantas;</hi> it cometh by eating
+foul ſowre Graſs or dry harſh Graſs in Summer, which doth not go forth
+of their Maw, but maketh them go with a ſhort grunt, and go but a little, and
+ſtand as if they were not able to go half a Mile.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take a quart of half-churned Milk with the Butter in it, and take a
+good Gar<g ref="char:EOLhyphen"/>lick head or two little ones and pill them as if they were to eat, and
+bruiſe them, <pb n="27" facs="tcp:110309:19"/>and take a penniworth of the fineſt Tar
+that you can get, and a good handful of the fineſt Feathers that can be got
+without any ſtumps, for fear of ſticking in the Beaſts Throat, and beat
+all theſe together, and if they chance to go on lumps, put them all together
+and beat in a little Soot and give it the Beaſts, and they will be well in
+four and twenty Hours. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="27" type="recipe">
+            <head>XXVII. A good Receipt for the bi<g ref="char:EOLhyphen"/>ting of a Shrew-Mouſe.</head>
+            <p>THis <hi>Shrew-Mouſe</hi> (for her bigneſs) is a more Venemous
+Beaſt then any; for if ſhe biteth any Beaſt, though it be but little, it
+will ſwell abundantly.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>When you ſee that your Beaſt is bitten and is ſwelled, then
+take an Awl and prick it up and down as far as it is ſwelled through the
+Hide, and no further, then take the Earth where Wains and Carts do much uſe
+to go, (but let it be the dryeſt of it) and blend it with Whitewine Vinegar,
+and it will preſently aſſwage and heal the ſwel<g ref="char:EOLhyphen"/>ling. Alſo take the
+Earth of a Cart-wheel <pb n="28" facs="tcp:110309:20"/>and the earth of a Swallows neſt
+and pound them together, and blend them with old Urine and make it thick like a
+Salve, and annoint the ſore place that is bitten, and it will cure either Man
+or Beaſt. <hi>Ap<g ref="char:EOLhyphen"/>proved</hi>
+            </p>
+         </div>
+         <div n="28" type="recipe">
+            <head>XXVIII. Another good Receipt for the Shrew-Mouſe.</head>
+            <p>THe biting of this Shrew is venomous, as is ſaid before.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Firſt open the Skin and let out the ve<g ref="char:EOLhyphen"/>nom, and if it be
+ſwelled, then beat Salt and Vinegar together and bathe the ſore place with
+it, and then boyl ſome Herbs to bath the ſwelled place, but boyl them in
+old Urine; bathe it round about the Sore, and if it chance to break, then you
+muſt take Barley and lay it on a Fire-ſhovel and burn it black-brown, and
+then pound it to Powder, and lay it in ſteep in White<g ref="char:EOLhyphen"/>wine vinegar all night,
+and put to a little of the juice of Dill, and blend them toge<g ref="char:EOLhyphen"/>ther &amp;
+annoint the place till it be well, and that will be quickly. <hi>Approved of my
+ſelf.</hi>
+            </p>
+         </div>
+         <div n="29" type="recipe">
+            <pb n="29" facs="tcp:110309:20"/>
+            <head>XXIX. Another for the Shrew-Mouſes.</head>
+            <p>THe bite of a <hi>Shrew-Mouſe</hi> is as veno<g ref="char:EOLhyphen"/>mous as the ſting
+of a Waſp, for if ſhe bite either Man or Beaſt it will ſwell
+immediately.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt take Parſley ſeed and boyl it with Whitewine, Salade
+oyl &amp; Hogs greaſe, alſo take ſome Powder of burnt Barley and blend in
+it and make it like a Salve, and annoint the Sore till it be well. This is good
+for to cure the biting of <hi>Hedge-hogs,</hi> or the ſtinging of
+<hi>Hornets.</hi>
+            </p>
+         </div>
+         <div n="30" type="recipe">
+            <head>XXX. For the ſtinging of Adders and Scorpions, or the biting of
+a Hedge-hog or Shrew.</head>
+            <p>FOr the ſtinging and biting of theſe ve<g ref="char:EOLhyphen"/>nomous creatures, take
+the oyl of Scor<g ref="char:EOLhyphen"/>pions and Vinegar, with Plantane and Bole<g ref="char:EOLhyphen"/>armonick made thick
+like a Salve, and an<g ref="char:EOLhyphen"/>noint the place ſo grieved three times a day. Alſo
+take <hi>Sanguis Draconis,</hi> and a little Barly Meal, and the white of Eggs;
+beat all theſe <pb n="30" facs="tcp:110309:21"/>together and lay them on Plaiſter-wiſe
+to the Sore, and renewing it once in twelve Hours, it will help them for this,
+and for the the ſtinging of <hi>Hornets. Approved.</hi>
+            </p>
+         </div>
+         <div n="31" type="recipe">
+            <head>XXXI. For the ſwelling of an Oxes Cod.</head>
+            <p>FOr the ſwelling of an <hi>Oxes Cod</hi> by any chance
+whatſoever, you muſt annoint him with ſweet Seam at the firſt three
+times a day, and if it do not fall, then take Wall<g ref="char:EOLhyphen"/>earth and diſſolve it in
+Vinegar and the Dung of an Ox, and bath them with it. Some holds it a naturall
+remedy for the dung of a Dog to cure the ſwelling of an <hi>Oxes Cod</hi> or
+<hi>Piſle,</hi> if they be often rubbed with it.</p>
+         </div>
+         <div n="32" type="recipe">
+            <head>XXXII. For an Ox or Cow that hath loſt their Appetite.</head>
+            <p>FOr the Beaſts that are tired by labour and have loſt their
+appetite, you muſt cauſe them to ſwallow raw Eggs well bea<g ref="char:EOLhyphen"/>ten with
+Honey, Vinegar and Salt.</p>
+            <p>Alſo give them Horehound made into fine Powder to drink, and it
+will help the Appetite.</p>
+            <p>Alſo ſtamp the tops of Rhue, Leeks, Smal<g ref="char:EOLhyphen"/>lage, 
+<pb n="31" facs="tcp:110309:21"/>and Sage, and give it them to drink in Whitewine, and it
+will help their Appe<g ref="char:EOLhyphen"/>tite.</p>
+            <p>Alſo for the ſwelling of the Pallate of the Mouth, take a
+ſharp knife and launce it, and let forth the Water and Blood, and rub the
+ſlit with Water and Salt, and it will do well.</p>
+         </div>
+         <div n="33" type="recipe">
+            <head>XXXIII. A Remedy for the loſs of the Cud.</head>
+            <p>BEaſts ſometimes loſe their Cud by chance, and if ſo, then
+they will mourn; and ſometimes by ſickneſs and poverty.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take ſowre Leaven of Rie-bread &amp; Salt, and beat it in a Mortar
+with mans Urine and Barm, and make a big Ball or two of it, and put them down
+the Throat of the Beaſts and they will do well.</p>
+            <p>Alſo take part of the Cud of another Beaſt and blend it with
+Rie-bread &amp; ſowre Leaven and Salt, and pound them in a Mor<g ref="char:EOLhyphen"/>tar, and make
+it into Balls and give it to the Beaſts, and they will get their Cud a<g ref="char:EOLhyphen"/>gain
+for certain.</p>
+         </div>
+         <div n="34" type="recipe">
+            <pb n="32" facs="tcp:110309:22"/>
+            <head>XXXIV. For the Lungs Growing of any Beaſt.</head>
+            <p>THe <hi>Lungs</hi> of a Beaſt is very often ſub<g ref="char:EOLhyphen"/>ject to
+ſickneſs or ſtopping, as will appear by their coughing and hoſting, and
+ſometimes they will hang forth their Tongues a great while after their
+hoſting, that is a ſign of the <hi>Lungs Growing.</hi> There is no other
+Medicines for this Diſeaſe but theſe two following.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt take a pint of Tanners Ooze and blend it with a pint of
+new Milk and an ounce of brown Sugarcandy, and two penniworth of Salade Oyl,
+and two ſpoon<g ref="char:EOLhyphen"/>fulls of Tar, and give it to the Beaſt warm at twice.</p>
+            <p>Alſo you muſt give them two Balls (ei<g ref="char:EOLhyphen"/>ther of them as big as an
+Egg) of Tar, But<g ref="char:EOLhyphen"/>ter, Garlick and Sugarcandy blended all together, and it will
+mend them preſently. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="35" type="recipe">
+            <pb n="33" facs="tcp:110309:22"/>
+            <head>XXXV. For to kill Worms in Ox, Cow, or Calf.</head>
+            <p>THere is nothing better to kill Worms in Cattell then pounded Savin
+and black Soap, blended with a quart of ſweet Wort and given them in a
+morning faſting, and keep them without meat three Hours after.</p>
+         </div>
+         <div n="36" type="recipe">
+            <head>XXXVI. A good Receipt for a Beaſt that is Dewboulne at the
+Spring or in Eddige-time.</head>
+            <p>FOr this <hi>Dewboulne,</hi> you muſt firſt let them blood in
+the Tail, and then take a Nut<g ref="char:EOLhyphen"/>meg and grate it, and take an Egg and take off
+the top of the ſhell and put out ſo much of the white as you may put the
+Nutmeg into the ſhell, and blend them together, and put it down the Beaſts
+Throat ſhell and all, and walk them up and down and they will mend
+preſently.</p>
+            <p>This ſwelling moſt commonly cometh when the Graſs is full of
+Water, and then it is full of Wind alſo; ſo that then the Beaſt lappeth
+up both Wind and Water and that cauſeth them to ſwell; then ſtir them 
+<pb n="34" facs="tcp:110309:23"/>up and down and cauſe them to Purge and they will do
+well.</p>
+            <p>There is leſs danger in putting them to wet Eddige then there is
+to dry, for the dry Eddige will not go through their Maws ſo well when it is
+dry and the Beaſts hungry.</p>
+         </div>
+         <div n="37" type="recipe">
+            <head>XXXVII. A good way to breed Milk.</head>
+            <p>IF your Cow chance to have a Calf and be poor, or to Calve before
+her time, and hath not Milk for to keep her Calf, you muſt give her good
+ſtore of Maſhes of Mault Milk-warm; alſo give her every mor<g ref="char:EOLhyphen"/>ning and
+evening a quart of Ale made into a Poſſet, and take off the Curd and put in
+Anniſeeds, Cummin ſeeds, Lettice ſeeds, and Coriander ſeeds, all made
+into Powder, and blend them with the Poſſet, and let them ſtand three
+Hours blended together, and then give it the Beaſt for four days one af<g ref="char:EOLhyphen"/>ter
+another, and by often drawing of her Paps her Milk will be ſure to encreaſe
+migh<g ref="char:EOLhyphen"/>tily in a ſhort time.</p>
+         </div>
+         <div n="38" type="recipe">
+            <head>XXXVIII. For the Withering of a Cow.</head>
+            <p>FOr the <hi>Withering of a Cow,</hi> take Cole<g ref="char:EOLhyphen"/>worts, Mallows,
+Maidenhair, Mug<g ref="char:EOLhyphen"/>wort, <pb n="35" facs="tcp:110309:23"/>Bettany, <hi>Ariſtolochia,</hi> and
+boyl all theſe in Water and give it to the Beaſt Milk-warm. Alſo take
+<hi>Ariſtolochia,</hi> Mirrhe, and Pepper, and bruiſe them and give it the
+Beaſt in white Wine or ſtrong Ale Milk-warm, and it will cauſe her to
+caſt forth her Latter burden or dead Calf, and make her whole for certain.
+<hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="39" type="recipe">
+            <head>XXXIX. A good Receipt for a Beaſt that maketh Blend-water that
+cometh by a ſtrain, and iſſueth through the Bladder.</head>
+            <p>THere may be ſeveral cauſes for the making of
+<hi>Blend-water.</hi> Firſt it may come by a Strain, Cruſh, or Wrench in
+the Back, which may cauſe ſome Vein to be broken near the Kidney, and ſo
+may feed the Bladder; and it may come to a Cow in her Calving by a ſtrain, or
+it may come by change of Ground or harſh feeding, as I mentioned before in
+the former Chapter.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take a Swallows neſt the Birds and all, if you can get them, and
+put them all into a Mortar, and pound the Birds, Neſt, and 
+<pb n="36" facs="tcp:110309:24"/>Feathers all together, and then boyl them in fair Water,
+and put in a good handful of Plantane leaves and ſeeds, Blewbottle, and the
+roots of Daffidillies, alſo put in a little Su<g ref="char:EOLhyphen"/>mack and boyl them very well;
+then ſtrain them and put to a little ſweet Wine and give it the Beaſt
+Milk-warm faſting. But firſt let blood in the Neck-vein for to draw the
+Blood back, and within half an Hour give them the Drink, and it will ſtay
+cer<g ref="char:EOLhyphen"/>tainly.</p>
+         </div>
+         <div n="40" type="recipe">
+            <head>XL. For to get a Beaſt a ſtomach when he is weary and
+tired.</head>
+            <p>WHen a Beaſt is tired or weary, it may be through weakneſs and
+poverty of his Body, it will bring ſome Diſeaſe or other upon him.</p>
+            <p>To prevent that and bring him to a Sto<g ref="char:EOLhyphen"/>mach, take a little handfull
+of Salt and Whitewine Vinegar, and rub his Mouth and Tongue very well, and put
+the reſt down his Throat and he will eat his Meat pre<g ref="char:EOLhyphen"/>ſently.</p>
+         </div>
+         <div n="41" type="recipe">
+            <pb n="37" facs="tcp:110309:24"/>
+            <head>XLI. For the hardneſs or ſwelling of a Bull or Oxes Piſle
+that is bruiſed by Riding.</head>
+            <p>FOr the ſwelling of a <hi>Bull</hi> or <hi>Oxes Piſle,</hi> you
+muſt take Holyhawk, Houſeleek, and a little Plantane, and ſtamp them
+to<g ref="char:EOLhyphen"/>gether with freſh Butter, and annoint it twice a day, and if it be ſore
+you muſt caſt him and waſh his Sheath and Piſle with Whitewine-vinegar
+very well, and if there be any Cancer or Holes in the Yard, then you muſt put
+ſome burnt Allom to the Vinegar and waſh it very well, and he will mend in
+three times dreſſing without fail. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="42" type="recipe">
+            <head>XLII. For Forbaiting or a ſwolne Foot of any Beaſt.</head>
+            <p>THis <hi>Forbaiting</hi> cometh by ſore travel or work, which
+cauſeth lameneſs and fretting of the Foot.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt Boyl Honey and Hogs-greaſe in Whitewine untill it be
+thick like Pap, <pb n="38" facs="tcp:110309:25"/>and lay it on the Foot a good thickneſs,
+and let it lie on three days before you re<g ref="char:EOLhyphen"/>move it.</p>
+            <p>Alſo for a ſwoln Foot, take half a hand<g ref="char:EOLhyphen"/>ful of Elder-leaves, a
+few leaves of Grun<g ref="char:EOLhyphen"/>ſel, and a few crops of Chickweed, and a little Houſleek
+and Swines-greaſe, and beat them altogether in a Mortar till they be like a
+Salve, and lay it on Plaiſter-wiſe, and it will take down the ſwelling
+with<g ref="char:EOLhyphen"/>out fail.</p>
+         </div>
+         <div n="43" type="recipe">
+            <head>XLIII. For the ſtenching of Blood of any Beaſt cut or hurt,
+and how to make a Salve to heal it.</head>
+            <p>FIrſt if you chance to have any Beaſt cut or hurt, you muſt
+take Hares-wooll or Rabbets-wooll, and fill the cut or ſlit full of it, and
+hold it to with your your hand, or elſe bind it faſt with ſome ſtring,
+and burn the upper Leather of an old Shooe, and take the Aſhes of it and
+ſtrew amongſt the Wooll and it will ſtay the bleeding. But let it lie on
+four and twenty Hours before you do take it off.</p>
+            <p>
+               <pb n="39" facs="tcp:110309:25"/>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take a little Wax, Honey, Turpentine, Swines-greaſe and
+Wheat-flower, and ſet them all on the Fire and let them boyl gent<g ref="char:EOLhyphen"/>ly, ſtir
+and blend them together, and then take them from the Fire and uſe them at
+your leiſure. And if there be a cut of any deepneſs, lay in a Tent of Flax
+or Linnen cloth dipped in the Salve, and lay a Plai<g ref="char:EOLhyphen"/>ſter of the ſame over
+it, and let it lie on four and twenty Hours, then remove it and that is enough,
+and it will heal it for certain. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="44" type="recipe">
+            <head>XLIV. For to make a Cow take the Bull by Milk.</head>
+            <p>IF your Cow be in good caſe, and you would have her to take Bull,
+if you have any Cow that is a Bulling or any Neigh<g ref="char:EOLhyphen"/>bours Cow, get a quart and a
+half of that Cows Milk that is on the Road, and give it to that Cow that you
+would have to be a Bulling, and let the Bull go with her, and ſhe will be a
+Bulling within ſix or eight days at the fartheſt.</p>
+         </div>
+         <div n="45" type="recipe">
+            <pb n="40" facs="tcp:110309:26"/>
+            <head>XLV. For to keep an Ox ſound.</head>
+            <p>FOr to keep an <hi>Ox ſound,</hi> you muſt waſh his Mouth with
+his own Water and Whitewine-vinegar once in twelve days, and it will bring a
+great deal of Flegme and Water off which would take away his Stomach, and
+cauſe him to hang down his Ears and have weeping Eyes. Alſo waſh his
+Mouth with Whitewine-vinegar and Time ſtamped in a little Salt, likewiſe
+waſh his Tongue very well, and he will have a very good ſtomach again.</p>
+         </div>
+         <div n="46" type="recipe">
+            <head>XLVI. For the Feaver in a Beaſt.</head>
+            <p>THis <hi>Feaver</hi> may be taken in the heat of Summer, in driving
+or hard labour<g ref="char:EOLhyphen"/>ing, and by drinking cold Water when they are exceeding hot, and
+ſo cauſe a ſhaking on them firſt, and afterwards produce a Feaver.</p>
+            <p>
+               <hi>The Signs.</hi> They will be very heavy in the Head, and will
+have ſwoln Eyes, and an extream heat in their Bodies, their Hair will ſtand
+of a Sweat upon their Backs.</p>
+            <p>
+               <pb n="41" facs="tcp:110309:26"/>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt cut them ſome Graſs, and give them ſome Lettice
+amongſt it to cool their Bodies, and the next morning let them blood in the
+Neck-vein, and give them the juice of Purſlain blended with Gum Dragant,
+Anniſeeds, the Powder of Damask Roſes, and put into it a quart of ſtrong
+Ale and make it ſweet with Honey; Then blend all together and give it to them
+three mornings one after another Milk-warm, and keep them warm, and they will
+mend preſently by Gods help. <hi>Ap<g ref="char:EOLhyphen"/>proved.</hi>
+            </p>
+         </div>
+         <div n="47" type="recipe">
+            <head>XLVII. For the Scab on a Beaſt.</head>
+            <p>FOr the <hi>Scab</hi> on a Beaſt, take his own Water, Salt,
+Butter, and Whitewine-vinegar, with a little Salade Oyland a little
+Brimſtone; blend all together and rub it on, and it will mend
+preſently.</p>
+         </div>
+         <div n="48" type="recipe">
+            <pb n="42" facs="tcp:110309:27"/>
+            <head>XLVIII. A good Receipt for to purge Beaſts.</head>
+            <p>FOr to purge <hi>Beaſts</hi> and to cleanſe the inner part of
+their Bodies, you muſt give them the droſs of Olives after the Oyl is
+preſſed out in new Milk.</p>
+            <p>Alſo take a quart of Clay-water, and put in two penniworth of
+Honey, and two pen<g ref="char:EOLhyphen"/>niworth of Salade Oyl, and twelve Laurel Leaves dried and
+made into Powder, put all together and make it warm and give it to the
+Beaſt.</p>
+            <p>Alſo take half a pound of ſweet Soap, and ſweet Ale that is in
+the Fat, and put in twelve Laurel leaves or the powder of the ſame ground
+ſmall or pounded into the ſweet Ale and Soap, and blend all together and
+give it to the Beaſts Milk-warm and it will help them. Alſo take a
+half-penny Candle and put up at his Fundament as far as you can reach, and
+leave it behind in the Body. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="49" type="recipe">
+            <pb n="43" facs="tcp:110309:27"/>
+            <head>XLIX. For a dry Hoarſneſs or Cough in a Beaſt.</head>
+            <p>THis <hi>Hoarſneſs</hi> or <hi>Cough</hi> in Ox or Cow muſt be
+carefully looked to, for it will grow in time to a worſe Diſeaſe;
+therefore it is good to prevent it.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take the diſtilled Water of Hyſſop, or elſe the decoction of
+Mint and Hyſſop to<g ref="char:EOLhyphen"/>gether, with the juice of Leeks, and give it with the
+Oyl of Olives and a little Gar<g ref="char:EOLhyphen"/>lick, for there hath not been ſo long a Cough
+known but this Medicine hath hel<g ref="char:EOLhyphen"/>ped it: ſometimes if it be an eaſie
+Hoarſ<g ref="char:EOLhyphen"/>neſs you may give them Tar with Honey<g ref="char:EOLhyphen"/>water, and it will help them
+for certain. <hi>Approved.</hi>
+            </p>
+         </div>
+         <div n="50" type="recipe">
+            <pb n="44" facs="tcp:110309:28"/>
+            <head>L. Another good Receipt for purging of Cattel.</head>
+            <p>THere is nothing better for purging <hi>Cattel</hi> at tht Spring
+before they go to Graſs, then to keep them in the Houſe a Week, give them
+Cinnamon, or Hartſ<g ref="char:EOLhyphen"/>horn, and common Salt boyled together warm: Alſo give
+them Tar, Butter, Honey, brown Sugarcandy, and the powder of the leaves of
+Lawrel, either in Balls or in warm water, and when they go to Graſs, within a
+Week after let them Blood, and give them a handful of Rhue in a pint of Ale
+warm, and this is called the <hi>preſervation of Health</hi> to any Cattel
+that is ready to feed, or any other ſervice.</p>
+         </div>
+         <div n="51" type="recipe">
+            <head>LI. Another good Receipt for the Fe<g ref="char:EOLhyphen"/>ver in Beaſts either in
+Winter or Summer.</head>
+            <p>CAttel may ſometimes get the <hi>Fever</hi> in <hi>Winter</hi> as
+well as in <hi>Summer,</hi> (if the Beaſt be low in Fleſh) by drinking cold
+Water, (eſpecially in a morning) they will begin to ſhake and tremble; and
+if they <pb n="45" facs="tcp:110309:28"/>chance to get the <hi>Fever,</hi> they will tremble
+and have heavy Eyes, and groan, and froth a little at the Mouth.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Firſt let them Blood, and then give them a drink of a quart of
+Ale, and four roots of Plantane, &amp; two ſpoonfuls of the beſt
+<hi>Lon<g ref="char:EOLhyphen"/>don</hi>-Treacle, and let their meat be ſprink<g ref="char:EOLhyphen"/>led with Water and
+they will do well. <hi>Ap<g ref="char:EOLhyphen"/>proved.</hi>
+            </p>
+         </div>
+         <div n="52" type="recipe">
+            <head>LII. For an inward ſickneſs in Cattel.</head>
+            <p>IF you cannot find out the Diſeaſe of the Beaſt, take a quart
+of Ale, and a handful of Wormwood, a handful of Rhue, and a handful of
+Roſemary, all being brui<g ref="char:EOLhyphen"/>ſed in a Mortar, and then boyled a little,
+ſtrain the Herbs forth very well, and add two ſpoonfuls of the juice of
+Garlick, and as much of the juice of Houſleek, and as much
+<hi>London</hi>-Treacle, and blend all together and give it to the Beaſts
+Milk-warm, and they will mend preſently, <hi>Ap<g ref="char:EOLhyphen"/>proved.</hi>
+            </p>
+         </div>
+         <div n="53" type="recipe">
+            <pb n="46" facs="tcp:110309:29"/>
+            <head>LIII. An excellent Cure for a Burn in a Bulls Yard, or in a Cows
+Matrix.</head>
+            <p>FOr a burned <hi>Bull,</hi> you muſt firſt caſt him and pull
+forth his <hi>Yard,</hi> and waſh both his Sheath and Yard with Whitewine
+vinegar, &amp; then take the juice of Houſleek, burnt Allom, Honey, and the
+juice of Let<g ref="char:EOLhyphen"/>tice, blend all together and annoint the Bulls Yard, and uſe it
+ſome three times and he will mend.</p>
+            <p>And for the Cow you may waſh and an<g ref="char:EOLhyphen"/>noint her Bearing, and ſhe
+will mend. <hi>Ap<g ref="char:EOLhyphen"/>proved of my ſelf.</hi>
+            </p>
+         </div>
+         <div n="54" type="recipe">
+            <head>LIV. For a ſucking Calf that ſcowreth.</head>
+            <p>YOu muſt take a pint of Verjuice and Clay that is burnt until it
+be red, or very well burned Tobacco-pipes, and pound them to Powder, and
+ſearſe them very finely, and put to a little powder of Charcoal, and blend
+all together and give it to the Calf, and he will mend in a night for
+certain.</p>
+         </div>
+         <div n="55" type="recipe">
+            <pb n="47" facs="tcp:110309:29"/>
+            <head>LV. For A Bull that ſhedeth his Seed.</head>
+            <p>TAke Clary-leaves and dry them, and pound them to Powder, and take
+the Powder of Tanners Bark and brown Sugar<g ref="char:EOLhyphen"/>candy, and take two penniworth of
+Tur<g ref="char:EOLhyphen"/>pentine, and work the Powders and the Turpentine very well into Balls as
+big as a great Crab, and give him two at a time night and morning, and he will
+mend pre<g ref="char:EOLhyphen"/>ſently without fail.</p>
+         </div>
+         <div n="56" type="recipe">
+            <head>LVI. For the Diſeaſe in Beaſts called the Sturdy or
+turning-Evil.</head>
+            <p>OF this Diſeaſe there are many kinds, one in the Brain-pan of
+one ſide or both, and another under the Horn-root, and another in the
+Neck-joynt; If it be in the Neck-joynt, or under the Horn it is uncurable; as
+for that in the Neck-joynt, you may finde it out by their carriage, for they
+will hold up their Heads in the Air and look wildly; and for the other under
+the Horn, they will turn round: none of theſe are curable, but that in the
+Brain-pan.</p>
+            <p>
+               <pb n="48" facs="tcp:110309:30"/>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt firſt caſt them and bind their Feet, then ſlit the
+Skin againſt the Brain-pan, and with a Needle and a long double Thread
+ſtitch up the Skin out of your way, and then take a ſtrong ſhort Knife,
+and a Hammer, and cut the <hi>Scaup</hi> two inches ſquare, and turn it up,
+and then you may ſee the Bladder; then take it out very care<g ref="char:EOLhyphen"/>fully for fear
+of breaking it, and caſt it a<g ref="char:EOLhyphen"/>way, and annoint the place with freſh
+But<g ref="char:EOLhyphen"/>ter, and always apply warm Cloths for fear of the cold, and be very careful
+that you lay the <hi>Scaup</hi> on again in the right place, and then turn down
+the Skin, and ſtitch it down with ſome Silk cloſe together, and then make
+a Plaiſter of Turpentine, Wax, Roſin, and Swines-greaſe or freſh
+Butter, and a plaiſter of Flax-hards, and lay on four or five doubles of
+Wollen-cloth, for to keep it from the Wind and Wea<g ref="char:EOLhyphen"/>ther; remove the Plaiſter
+once in five days, and be carefull of cold, and let them drink no cold Water
+for ſix or ten days or more, and they will do well. <hi>Approved of my
+ſelf.</hi>
+            </p>
+         </div>
+         <div n="57" type="recipe">
+            <pb n="49" facs="tcp:110309:30"/>
+            <head>LVII. For a Cough or Shortneſs of Breath in Cattel.</head>
+            <p>IF your Beaſts are troubled with a <hi>Cough,</hi> as I have
+already ſhewed, this will cure them, if they are Curable.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>Take a quart of new churned Milk, and beat in ſome Ta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and a Head of Gail<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck clean pilled, Alicampane made into
+Pow<g ref="char:EOLhyphen"/>der, and a little brown Sugarcandy; blend all together, and give it to the
+Beaſt three mornings one after another, and if they be curable this will oure
+them without doubt.</p>
+         </div>
+         <div n="58" type="recipe">
+            <head>LVIII. For to kill Lice in any Beaſt.</head>
+            <p>FOr the killing of <hi>Lice</hi> in any Beaſt, you muſt take
+Quickſilver and kill it with Swines-greaſe, and rub them very wel about the
+Horns, Head and Neck, and upon the Shoulders and Dewlap, and they will lick the
+reſt of their Body themſelves, or ſtrew ſome keen aſhes on their
+hinder parts, and let them ſtand in the Rain a while, and it will make them
+all fly away from the Beaſt for certain.</p>
+         </div>
+         <div n="59" type="recipe">
+            <pb n="50" facs="tcp:110309:31"/>
+            <head>LIX. For the Milting of a Beaſt.</head>
+            <p>THe <hi>Milting of a Beaſt</hi> is when they have got a ſtroak
+with a Goad, or Cudgel, or Ruſh againſt ſome piece of Tim<g ref="char:EOLhyphen"/>ber. The Signs
+are, when they lay them<g ref="char:EOLhyphen"/>ſelves down they will riſe again preſently and
+cannot reſt, but ſit in pain.</p>
+            <p>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt take Stone-pitch and pound it ſmall, and blend it with
+Ale, Saffron, and Pepper, and give it him and walk him a little after it, and
+he will mend preſently for certain.</p>
+         </div>
+         <div n="60" type="recipe">
+            <head>LX. For the Rottenneſs in a Beaſt.</head>
+            <p>IF your Beaſt be ſubject to <hi>Rottenneſs,</hi> you may know
+it by his Poverty and Leanneſs, and continual ſcowring; and if they be very
+rotten they will ſcower Whitiſh Brown, and it will ſtink filthily.</p>
+            <p>
+               <pb n="51" facs="tcp:110309:31"/>
+               <hi>The Cure.</hi>
+            </p>
+            <p>You muſt give them Bayberries beaten to Powder, Mirrhe,
+Elder-leaves, Rhue, Fetherfew, all made ſmall, and take a lump of the
+bleweſt Clay you can poſſibly get, and burn it till it be very red, or
+almoſt black, and then pound it to Powder, and and blend it all together in
+ſtrong Urine, and give the Beaſt half a pint at a time three ſeveral
+times Milk-warm, and it will ſtay the Scowering of the Beaſt and heal the
+Diſeaſe.</p>
+         </div>
+         <div n="61" type="recipe">
+            <head>LXI. For the Cluſh and ſwoln Neck.</head>
+            <p>FIrſt let the Beaſt reſt three or four days, then take freſh
+Butter, Honey, Hogs<g ref="char:EOLhyphen"/>lard, and Wax, all in equal quantities, and melt them
+together like a Salve, and an<g ref="char:EOLhyphen"/>noynt the place and it will mend
+preſent<g ref="char:EOLhyphen"/>ly.</p>
+            <p>Alſo if the Neck be ſwoln and raw, then take Honey and
+Maſtick, and a little freſh Butter (without Salt) or freſh
+Swines-greaſe, (without Salt) and boyl theſe all together, and annoint the
+ſore place and it will mend.</p>
+            <p>Alſo if the Neck be puffed and ſwoln, <pb n="52" facs="tcp:110309:32"/>and
+raw, you muſt take Alicampane, and boyl it very well, and ſtamp it with
+Hogs<g ref="char:EOLhyphen"/>greaſe and the fat of a Weather, and a little Honey, and Frankinſence,
+and new Wax, blend all together and annoint the place, and it will preſently
+amend. <hi>Approved.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:110309:32"/>
+            <head>Books Printed for <hi>Henry Twyford,</hi> and are to be ſold
+at his Shop in <hi>Vine Court Middle Temple,</hi> London.</head>
+            <list>
+               <item>THe <hi>Gentlemans Jockey</hi> and <hi>approved Farrier,</hi>
+inſtructing in the Nature, Cauſe and Cure of all diſeaſes incident to
+Horſes, with an Exact and eaſy Method of Breeding, Buying, Dieting, and
+otherwiſe Ordering of all ſorts of Horſes, aſwel for the Common and
+Ordinary uſe, as the Heats and Courſe, with divers other Curioſities;
+Collected by the long Practiſe and Experi<g ref="char:EOLhyphen"/>ence, of <hi>J. H.</hi> Eſquire,
+<hi>Matthew Hodſon,</hi> Mr. <hi>Holled,</hi> Mr. <hi>Willis,</hi> Mr.
+<hi>Robinſon,</hi> Mr. <hi>Medcalf,</hi> and <hi>Nathaniel Shaw,</hi> Octavo,
+price 2<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item> The <hi>Clarks Tutor to Arithmetick and Wri<g ref="char:EOLhyphen"/>ting,</hi> being
+a plaine and eaſie way of <hi>Arith<g ref="char:EOLhyphen"/>metick,</hi> and for Buying and Selling
+of Land either in Poſſeſion or Revertion at 6 or 8 <hi>per Cent;</hi> The
+meaſureing of Timber, Stone, Paving, Houſing, Surveying of Lands, Dyalling,
+&amp;c. Being Remains of <hi>Edmund <pb facs="tcp:110309:33"/>Wingate,</hi> Eſquire,
+<hi>Octavo,</hi> price 2<hi>s.</hi>
+               </item>
+               <item> The Counteſs of <hi>Arundels Secrets</hi> in Phy<g ref="char:EOLhyphen"/>ſick
+and Chyrurgery, Preſerving and Can<g ref="char:EOLhyphen"/>dying &amp;c.</item>
+               <item> The <hi>Chymical Galiniſt,</hi> wherein the Practice of
+the Ancients are reconciled to the new Diſcoveries in the Theory of
+Phy<g ref="char:EOLhyphen"/>ſick, by <hi>George Caſtle,</hi> Doctor of Phyſick, <hi>Octavo,</hi>
+price 2<hi>s.</hi>
+               </item>
+               <item> 
+                  <hi>Italy</hi> in its originall Glory, Ruine and Revival;
+Being a ſurvey of the whole Ge<g ref="char:EOLhyphen"/>ogrophy and Hiſtory of that famous Coun<g ref="char:EOLhyphen"/>try,
+with the Adjacent Iſlands of Sicily and Malta, and whatever is remarkable in
+<hi>Rome,</hi> and all thoſe Towns and Territories mentioned in Ancient and
+Modern Authors by <hi>Edmund Warcup,</hi> Eſquire, <hi>Folio,</hi> price
+6<hi>s.</hi>
+               </item>
+               <item> A Comentary on <hi>Antoninus</hi> his Itinerary or Journeys
+on the <hi>Roman Empire</hi> ſo far as it concerneth <hi>Brittain,</hi>
+wherein the firſt Foundation of our Cities, Laws and Go<g ref="char:EOLhyphen"/>vernment according to
+the Roman Policy, The Ancient names of their Gariſons, with their ſight and
+true diſtances: Their milita<g ref="char:EOLhyphen"/>ry ways and walls, with many Antiquities,
+Medals, Inſcriptions, and Urnes, very uſeful for all Hiſtorians,
+Antiquaries, Phi<g ref="char:EOLhyphen"/>lologiſts, and more particularly for the ſtu<g ref="char:EOLhyphen"/>dents 
+<pb facs="tcp:110309:33"/>in law: By <hi>William Burton,</hi> Batche<g ref="char:EOLhyphen"/>lor of Laws.
+<hi>Folio,</hi> price 6<hi>s.</hi>
+               </item>
+               <item> Hiſtory of the troubles of <hi>Swedland and Poland,</hi>
+which occaſioned the expulſion of <hi>Sigiſmundus</hi> the Third King of
+thoſe Kingdoms, with his heirs for ever from the <hi>Sweediſh</hi> Crown.
+By <hi>John Fowler,</hi> Secre<g ref="char:EOLhyphen"/>tary to Sir <hi>George Douglas,</hi> Knight,
+<hi>Folio,</hi> price 5<hi>s.</hi>
+               </item>
+               <item> The <hi>Annals</hi> and Hiſtory of the
+<hi>Low-Countrey</hi> Wars, by <hi>Hugo Grotius,</hi> in Engliſh,
+<hi>Octavo,</hi> price 6<hi>s.</hi>
+               </item>
+               <item> 
+                  <hi>Eccleſia Reſtaurata:</hi> Or, the Hiſtory of the
+Reformation of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> containing the Beginning,
+Progreſs and Succeſs of it; The Councels by which it is conducted, the
+Rules of Piety, and Prudence by which it was founded: The ſeveral Steps by
+which it was promoted: The firſt preparations to it by King <hi>Henry</hi>
+the Eighth, until the Legal ſetting and eſtabliſhment of it under Queen
+<hi>Elizabeth.</hi> By <hi>Peter Heylin</hi> D.D. <hi>Fol.</hi> price
+10<hi>s.</hi>
+               </item>
+               <item> The <hi>Miniſter of State,</hi> wherein is ſhewn the
+true uſe of Modern Policy: By <hi>Mon<g ref="char:EOLhyphen"/>ſieur de Sithon,</hi> Secretary to
+Cardinal <hi>Riche<g ref="char:EOLhyphen"/>lieu:</hi> In two Parts, <hi>Fol.</hi> price 10<hi>s.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:110309:34"/>
+            <pb facs="tcp:110309:34"/>
+         </div>
+      </back>
+   </text>
+</TEI>
